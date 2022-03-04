@@ -1,0 +1,11 @@
+data
+trained_models
+logs/
+.idea/
+__pycache__/
+.pytest_cache/
+ELMo
+*.png
+images
+preds
+*.pkl
