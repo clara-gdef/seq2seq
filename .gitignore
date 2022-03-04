@@ -9,3 +9,4 @@ ELMo
 images
 preds
 *.pkl
+runWithErrorNotif.sh
